@@ -167,5 +167,3 @@ The `lms.sql` file includes tables for:
 This project is open source and available for educational and personal use.
 
 ---
-
-⭐ *If you found this project helpful, please give it a star!*
